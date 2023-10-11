@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Accelerated Food Exchange Network - Home</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to the Accelerated Food Exchange Network</h1>
+    <p>A non-profit organization aimed at solving food security in Nigeria.</p>
+    <nav>
+      <a href="index.html">Home</a>
+      <div class="dropdown">
+        <button class="dropbtn">Programs</button>
+        <div class="dropdown-content">
+          <a href="programs.html">Our Programs</a>
+          <!-- Add more program links -->
+        </div>
+      </div>
+      <a href="donations.html">Donations</a>
+    </nav>
+  </header>
+
+  <section id="whoWeAre">
+    <h2>Who We Are</h2>
+    <p>
+      The Accelerated Food Exchange Network is a non-profit organization committed to alleviating food insecurity in Nigeria. Our mission is to provide sustainable solutions, raise awareness, and collaborate with communities to ensure access to nutritious food for everyone.
+    </p>
+  </section>
+
+  <marquee behavior="scroll" direction="left">
+    <img src="image1.jpg" alt="Image 1">
+    <img src="image2.jpg" alt="Image 2">
+    <!-- Add more image elements -->
+  </marquee>
+
+  <footer>
+    <p>&copy; 2023 Accelerated Food Exchange Network. All rights reserved.</p>
+  </footer>
+</body>
+</html>
